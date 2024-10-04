@@ -64,7 +64,7 @@ Then you'll need to install git and clone this repo:
     yum install -y git
     mkdir -p /app
     cd /app
-    git clone https://github.com/neo4j-partners/neo4j-generative-ai-aws.git
+    git clone https://github.com/apronobis/neo4j-llm-aws.git
     cd neo4j-generative-ai-aws
 
 Let's install python & pip first:
